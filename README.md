@@ -27,15 +27,13 @@ Previously led the aerodynamics of the UAV at Horus UPV.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,matlab,latex,git,github,vscode,sklearn&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,matlab,latex,git,github,vscode&theme=dark" />
 
 <br/><br/>
 
 **Programming & data**<br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/MATLAB-E16737?style=flat-square&logo=mathworks&logoColor=white" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
 
 **Aerodynamics & CAD**<br/>
 <img src="https://img.shields.io/badge/STAR--CCM+-CFD-0b1d3a?style=flat-square" />
