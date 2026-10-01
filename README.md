@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1200&color=38BDF8&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Carlos+%E2%9C%88%EF%B8%8F;Aerodynamics+%C3%97+AI" alt="Hi, I'm Carlos" />
 
-<img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=profile+views&color=38bdf8&style=flat-square" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=carlospm2004&label=profile+views&color=38bdf8&style=flat-square" alt="profile views" />
 &nbsp;
 <a href="https://www.linkedin.com/in/angel-carlos-p%C3%A9rez-moll%C3%A1-27b5b22bb"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 
